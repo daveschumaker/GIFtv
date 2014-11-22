@@ -14,7 +14,7 @@ Annoying, right?
 
 *Cue superhero music*
 
-Some Javascript, CSS, and PHP came the the rescue! 
+Some Javascript, CSS, and PHP came the the rescue!
 
 We're using **CSS** to set a background image (based on one of our animated GIFs) that fills up the entire display. Depending on the settings of your viewport, the image has the possibility of being severly cropped, but hey, whatever!
 
@@ -38,7 +38,6 @@ GIFtv: [http://dave.ly/stuff/giftv/](http://dave.ly/stuff/giftv/)
 
 * Better error handling
 * Figure out how to get Dropbox integration working so the whole company can get in on the fun
-* Maybe stop writing output to images.txt?
 
 ## Soft 'g' or hard 'g'?
 
