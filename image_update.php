@@ -47,6 +47,7 @@
   }
 
   $images = getImages();
-  saveFile($images);
+
+  echo json_encode($images, JSON_UNESCAPED_SLASHES);
 
 ?>
