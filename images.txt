@@ -1,1 +1,0 @@
-images/cat-shaq.gif,images/cat_cloud.gif
